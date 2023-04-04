@@ -7,6 +7,7 @@ public class Prova1 {
         //ciaoooooo
 		System.out.println("ciao");
 		System.out.println("ciao");
+		System.out.println("ciao");
 	}
 
 }
